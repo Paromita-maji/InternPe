@@ -25,5 +25,45 @@ This is a simple number guessing game where the computer selects a random number
 
 Feel free to reach out if you have any questions or suggestions!
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Rock, Paper, Scissors Game ✊✋✌️
+This is my Task 2 at InternPE, where I created a Rock,Paper,Scissor game using Java.
+
+
+## About the Game 🎮
+This is a simple console-based Rock, Paper, Scissors game implemented in Java. 
+
+# How to Play
+
+-The game is played between the user and the computer.
+-Each player chooses either rock, paper, or scissors.
+-The winner is determined based on the following rules:
+-Rock beats scissors
+-Scissors beats paper
+-Paper beats rock
+-The result of the game is displayed, and the player can choose to play again.
+
+# Technologies Used
+-Java programming language
+
+# How to Run
+-Make sure you have Java installed on your system.
+-Clone this repository to your local machine.
+-Open a terminal and navigate to the project directory.
+-Compile the Java file using the following command:
+
+## Screenshots 🖼️
+![Screenshot 2024-04-29 213943](https://github.com/Paromita-maji/InternPe/assets/164652279/14d1a25d-3101-4e59-b6be-e3874dc787a6)
+
+Enjoy playing Rock, Paper, Scissors!
+
+
+
+
+
+
+
+
 
 # InternPe
